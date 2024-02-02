@@ -1,1 +1,4 @@
-{packageName}
+{packageName} 
+---
+name: {user.name}
+surname: {user.surname}
